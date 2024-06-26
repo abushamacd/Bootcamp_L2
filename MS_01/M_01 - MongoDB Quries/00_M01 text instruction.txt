@@ -1,0 +1,166 @@
+Practice Data: https://github.com/Apollo-Level2-Web-Dev/mongodb-practice
+
+
+
+Get Ready To Unlock The Secrets Of Mongoose, Your Key To Mastering MongoDB In The Node.Js World. This Course Will Turn You Into A Data Boss, Teaching You How To Add, Search For, And Change Your Information With Ease.
+
+
+
+Let's Delve Into The Exciting Journey That Will Make You A Mongoose Master! Here's What You'll Explore,
+
+
+
+1) Install MongoDB Compass & No SQL Booster ( Windows, Mac & Linux): Before We Dive In, We'll Show You How To Install The Tools You Need: MongoDB Compass & NoSQL Booster (Think Of Them As Fancy Flashlights For Your Data). We'll Have Instructions For Windows, Mac, And Linux Users.
+
+
+Hey Abu Shama, If You Complete Your Module On Time You May Get The Exciting Reward From Us
+
+Remember, if you don't finish the rewarded content within 48 hours, it will disappear.
+Running Module : 1
+
+1/15
+
+Search Lesson
+
+
+
+
+
+1-0 Introduction
+ 3 min
+
+
+1-1-A Install MongoDB compass & No SQL Booster ( windows)
+ 10 min
+
+
+1-1-B Install MongoDB compass & No SQL Booster ( Mac & Linux)
+ 12 min
+
+
+1-2 Insert,insertOne, find, findOne, field filtering, project
+ 10 min
+
+
+1-3 $eq, $neq, $gt, $lt, $gte, $lte
+ 8 min
+
+
+1-4 $in, $nin, implicit and condition
+ 13 min
+
+
+1-5 $and, $or, implicit vs explicit
+ 14 min
+
+
+1-6 $exists, $type,$size
+ 13 min
+
+
+1-7 $all , $elemMatch
+ 10 min
+
+
+1-8 $set, $addToSet, $push,
+ 13 min
+
+
+1-9 $unset, $pop, $pull, $pullAll
+ 9 min
+
+
+1-10 More about $set, how to explore documentation
+ 14 min
+
+
+1-11 delete documents, drop collection and how to explore by yourself
+ 8 min
+
+
+Practice Task - 1
+
+Office Address
+
+Level-4, 34, Awal Centre, Banani, Dhaka
+Support: web@programming-hero.com
+Helpline: 01322901105 , 01746710291
+(Available : Sat - Thu, 10:00 AM to 7:00 PM)
+Useful Links
+
+Blog
+Success
+About us
+Refund policy
+Terms and Conditions
+Privacy
+&
+
+App Privacy Policy
+Follow Us
+
+Download Apps
+
+google
+apple
+microsoft
+© Programming Hero 2024
+
+
+Practice Data: https://github.com/Apollo-Level2-Web-Dev/mongodb-practice
+
+
+
+Get Ready To Unlock The Secrets Of Mongoose, Your Key To Mastering MongoDB In The Node.Js World. This Course Will Turn You Into A Data Boss, Teaching You How To Add, Search For, And Change Your Information With Ease.
+
+
+
+Let's Delve Into The Exciting Journey That Will Make You A Mongoose Master! Here's What You'll Explore,
+
+
+
+1) Install MongoDB Compass & No SQL Booster ( Windows, Mac & Linux): Before We Dive In, We'll Show You How To Install The Tools You Need: MongoDB Compass & NoSQL Booster (Think Of Them As Fancy Flashlights For Your Data). We'll Have Instructions For Windows, Mac, And Linux Users.
+
+
+
+2) Insert, InsertOne, Find, FindOne, Field Filtering, Project: Dive Into The Fundamentals Of Inserting Data Into Your MongoDB Collections Using Insert And InsertOne Methods Master Retrieving Data. Explore The Find Method For Retrieving Multiple Documents And FindOne For Fetching A Single Document. Learn How To Filter Specific Fields From Your Retrieved Documents Using Field Filtering And Projection Techniques.
+
+
+
+3) $Eq, $Neq, $Gt, $Lt, $Gte, $Lte: Unleash The Power Of Comparison Operators Like $Eq (Equal To), $Neq (Not Equal To), $Gt (Greater Than), And More To Pinpoint The Exact Data You Need.
+
+
+
+4) $In, $Nin, Implicit And Condition: $In (Included In) And $Nin (Not Included In) Operators For Precise Data Selection. We'll Also Delve Into Implicit And Conditional Logic For Crafting Complex Queries.
+
+
+
+5) $And, $Or, Implicit Vs Explicit: Learn How To Combine Multiple Conditions Using $And And $Or Operators To Fine-Tune Your Data Retrieval. We'll Cover Both Implicit And Explicit Ways To Combine Conditions For Maximum Flexibility.
+
+
+
+6) $Exists, $Type,$Size: Discover Operators Like $Exists, $Type, And $Size For Detailed Data Inspection.
+
+
+
+7) $All , $ElemMatch: Master Array Manipulation With Operators Like $All, $ElemMatch. 
+
+
+
+8) $Set, $AddToSet, $Push: Explore Operators Like $Set For Updating Existing Field Values, $AddToSet For Adding Unique Elements To An Array, And $Push For Adding Elements To An Array Regardless Of Uniqueness.
+
+
+
+9) $Unset, $Pop, $Pull, $PullAll: Learn How To Remove Specific Fields Using $Unset, Remove The Last Element From An Array With $Pop, And Target Specific Elements For Removal Using $Pull And $PullAll. 
+
+
+
+10) More About $Set: We'll Also Delve Deeper Into The Nuances Of $Set For Advanced Usage Scenarios.
+
+
+
+11) Delete Documents, Drop Collection And How To Explore By Yourself: Discover How To Delete Specific Documents Based On Criteria. Learn How To Completely Remove A Collection From Your Database. We'll Equip You With Strategies For Effectively Navigating The Official Mongoose Documentation To Explore Advanced Features And Functionalities On Your Own.
+
+
+
+By Diligently Following This Path And Practicing The Techniques You Learn, You'll Be Well On Your Way To Becoming A Mongoose Master And Confidently Managing Your MongoDB Data!
