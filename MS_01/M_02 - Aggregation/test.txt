@@ -69,3 +69,38 @@ db.test.aggregate([
 ])
 
 ===============================
+
+db.test.aggregate([
+    // {
+    //     $unwind: "$interests"
+    // },
+    {
+        $group: {
+            _id: "$age",
+            count: { $sum: 1 },
+            interestOfAge: { $push: "$interests" }
+        }
+    } 
+])
+
+===============================
+
+db.test.aggregate([
+    {
+        $bucket: {
+            groupBy: "$age",
+            boundaries: [18, 28, 30],
+            default: "Remaining",
+            output: {
+                "count": { $sum: 1 },
+                "Username": { $push: "$name" }
+            }
+        }
+    }
+])
+
+===============================
+
+===============================
+
+===============================
