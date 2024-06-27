@@ -43,4 +43,29 @@ db.test.aggregate([
 
 ===============================
 
+db.test.aggregate([
+    {
+        $group: {
+            _id: null,
+            max: {
+                $max: "$salary",
+            },
+            min: {
+                $min: "$salary",
+            },
+            avgSalary: {
+                $avg: "$salary",
+            }
+        }
+    },
+    {
+        $project: {
+            max: 1,
+            min: 1,
+            averageSalary: "$avgSalary",
+
+        }
+    }
+])
+
 ===============================
