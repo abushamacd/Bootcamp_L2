@@ -9,6 +9,38 @@ db.test.aggregate([
     }
 ])
 
+===============================
+
+db.test.aggregate([
+    {
+        $match: { gender: "Male" },
+    }, 
+    {
+        $addFields: {course:"Next Level", eduTech:"PH"}
+    },{
+        $merge: "test"
+    }
+])
 
 ===============================
 
+db.test.aggregate([
+    {
+        $group: { _id: "$gender",
+        count:{$sum: 1},
+            fullDoc:{$push: "$$ROOT"}
+        }
+    },
+    {
+       $project: {
+           "fullDoc.name":1,
+           "fullDoc.email":1,
+           "fullDoc.phone":1,
+           
+       } 
+    }
+])
+
+===============================
+
+===============================
