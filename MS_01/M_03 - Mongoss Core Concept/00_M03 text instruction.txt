@@ -1,0 +1,151 @@
+Installation: https://blog.logrocket.com/linting-typescript-eslint-prettier
+
+
+
+GitHub Link: https://github.com/Apollo-Level2-Web-Dev/Level2-Batch-3-PH-university-server/tree/mastering-mongoose
+
+
+
+
+
+In This Module, You Will Gain An Overview Of The Mongoose Library And Its Role In Working With MongoDB Databases. You Will Learn How To Install And S
+
+
+Hey Abu Shama, If You Complete Your Module On Time You May Get The Exciting Reward From Us
+
+Remember, if you don't finish the rewarded content within 48 hours, it will disappear.
+Running Module : 3
+
+0/11
+
+Search Lesson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3-1 Introduction to mongoose
+ 4 min
+
+
+3-2 Installing express , mongoose, typescript, dotenv ,cors
+ 15 min
+
+
+3-3 Installing eslint, refactor code, fix errors using command
+ 15 min
+
+
+3-4 Install prettier,ts-node-dev,fix formatting issues
+ 17 min
+
+
+3-5 Software design pattern , mvc vs modular, create an interface
+ 14 min
+
+
+3-6 Create an schema for a student
+ 14 min
+
+
+3-7 Refactor your schema
+ 10 min
+
+
+3-8 Create route , service and controller
+ 14 min
+
+
+3-9 Insert a student data into mongoDB
+ 11 min
+
+
+3-10 Create get student route
+ 13 min
+
+Office Address
+
+Level-4, 34, Awal Centre, Banani, Dhaka
+Support: web@programming-hero.com
+Helpline: 01322-810882
+(Available : Sat - Thu, 10:00 AM to 7:00 PM)
+Useful Links
+
+Blog
+Success
+About us
+Refund policy
+Terms and Conditions
+Privacy
+&
+
+App Privacy Policy
+Follow Us
+
+Download Apps
+
+google
+apple
+microsoft
+© Programming Hero 2024
+
+
+#Module_8_Published
+
+
+
+Installation: https://blog.logrocket.com/linting-typescript-eslint-prettier
+
+
+
+GitHub Link: https://github.com/Apollo-Level2-Web-Dev/Level2-Batch-3-PH-university-server/tree/mastering-mongoose
+
+
+
+
+
+In This Module, You Will Gain An Overview Of The Mongoose Library And Its Role In Working With MongoDB Databases. You Will Learn How To Install And Set Up Express, Mongoose, TypeScript, Dotenv, And CORS For Your Project. By Installing Prettier-Ts-Node-Dev, You'll Be Able To Automatically Fix Any Formatting Issues In Your Code, While Installing ESLint Will Help You Identify And Address Errors In Your Codebase. 
+
+
+
+
+
+The Module Will Also Cover Software Design Patterns, Specifically Comparing The MVC (Model-View-Controller) Pattern With The Modular Pattern, Enabling You To Choose The Most Suitable Approach For Organizing And Structuring Your Application. Additionally, You Will Explore Creating Interfaces To Define Object Structures And Behaviors In Your Code.
+
+
+
+
+
+To Apply The Concepts Learned, You Will Create A Schema For A Student, Defining The Necessary Properties And Relationships. Following That, You Will Learn How To Create Routes, Services, And Controllers To Handle Student-Related Requests. Finally, You Will Be Encouraged To Refactor Your Existing Schema, Leveraging The Knowledge Gained Throughout The Module, To Enhance Its Design And Implementation.
