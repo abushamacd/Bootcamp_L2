@@ -1,0 +1,10 @@
+
+
+
+
+GitHub Link: https://github.com/Apollo-Level2-Web-Dev/Level2-Batch-3-PH-university-server/tree/advanced-crud
+
+
+
+This Module Focuses On Validation, Covering Topics Such As An Introduction To Validation, Utilizing The Joi Package, Custom Validation, And Techniques Like Instance Method Validation And Zod Integration. A Basic Understanding Of Validation, While We Explores Practical Validation Using Joi, Including Instance Methods And Advanced JOD Techniques. By The End, You'll Be Equipped With The Skills To Confidently Validate Data In TypeScript. Let's Dive Into The Exciting World Of Validation! 
+
